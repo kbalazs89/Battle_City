@@ -1,0 +1,7 @@
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\bin\Debug\MyNewProject.dll
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\bin\Debug\MyNewProject.pdb
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\bin\Debug\BattleCity.Common.dll
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\bin\Debug\BattleCity.Common.pdb
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\obj\Debug\MyNewProject.csprojResolveAssemblyReference.cache
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\obj\Debug\MyNewProject.dll
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\MyNewProject\obj\Debug\MyNewProject.pdb

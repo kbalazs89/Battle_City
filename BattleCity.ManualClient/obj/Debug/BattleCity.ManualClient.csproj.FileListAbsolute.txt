@@ -1,0 +1,7 @@
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.ManualClient.dll
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.ManualClient.pdb
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.Common.dll
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.Common.pdb
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.csprojResolveAssemblyReference.cache
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.dll
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.pdb

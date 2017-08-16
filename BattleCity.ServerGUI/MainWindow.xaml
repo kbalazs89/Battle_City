@@ -1,0 +1,44 @@
+﻿<Window x:Class="BattleCity.ServerGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:BattleCity.ServerGUI"
+        Title="GeekDay VI - Battle City" Height="720" Width="1000" Left="0" Top="0" Closing="Window_Closing">
+    <Window.Resources>
+        <local:GameItemsToImageConverter x:Key="GameItemsToImageConverter" />
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="700" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Border Background="Black" Grid.Column="0" Grid.Row="0" >
+            <Image Stretch="Uniform" 
+               Source="{Binding Path=GameItems, Converter={StaticResource GameItemsToImageConverter}}" />
+        </Border>
+        
+        <StackPanel Grid.Column="1">
+            <TextBlock TextWrapping="Wrap" Height="50" Text="{Binding Path=GameStatus}" />
+            <ListBox ItemsSource="{Binding Path=Clients}" SelectionMode="Multiple" x:Name="ClientsLB">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal" >
+                            <Rectangle Height="48" Width="48" Fill="{Binding Path=Tank.ItemBrush}" />
+                            <StackPanel Orientation="Vertical" Margin="5 0 0 0">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="3" Text="{Binding Path=TeamName, StringFormat='{}{0} |'}" FontSize="12" FontWeight="Bold" />
+                                    <TextBlock Margin="3" Text="{Binding Path=Tank.TankScore, StringFormat='{}{0} pts'}" FontSize="12" FontWeight="Bold" />
+                                </StackPanel>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Margin="3" Text="{Binding Path=Tank.TankWasShot, StringFormat='Killed: {0}'}" FontSize="10" FontWeight="Bold" />
+                                    <TextBlock Margin="3" Text="{Binding Path=Tank.Distance, StringFormat='Distance: {0:F}'}" FontSize="10" FontWeight="Bold" />
+                                </StackPanel>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+
+        <Button Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Top" Height="50" Width="50" Content="RUN" Click="RunGame_Click" />
+    </Grid>
+</Window>

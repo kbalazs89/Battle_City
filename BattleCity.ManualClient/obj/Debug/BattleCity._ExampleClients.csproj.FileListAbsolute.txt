@@ -1,0 +1,14 @@
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\obj\Debug\BattleCity._ExampleClients.csprojResolveAssemblyReference.cache
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.dll
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.pdb
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.ManualClient.dll
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.ManualClient.pdb
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.Common.dll
+N:\anon\programming\GeekDay7_BattleCity_DLL\CODE\BattleCity.ManualClient\bin\Debug\BattleCity.Common.pdb
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\bin\Debug\BattleCity.ManualClient.dll
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\bin\Debug\BattleCity.ManualClient.pdb
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\bin\Debug\BattleCity.Common.dll
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\bin\Debug\BattleCity.Common.pdb
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\obj\Debug\BattleCity._ExampleClients.csprojResolveAssemblyReference.cache
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.dll
+C:\Users\Balazs\Desktop\Szoftverfejlesztés\HáziDolgozat\geekday_bc_source_0414\BattleCity.ManualClient\obj\Debug\BattleCity.ManualClient.pdb
