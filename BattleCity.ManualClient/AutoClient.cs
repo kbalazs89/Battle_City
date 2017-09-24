@@ -26,7 +26,7 @@ namespace BattleCity.ManualClient
         {
             get
             {
-                return "anon.png";
+                return "2.jpg";
             }
         }
 
